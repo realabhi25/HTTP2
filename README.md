@@ -2,7 +2,7 @@
 The wonders of HTTP/2 in GO
 
 ## Generate HTTP/2 Certs for.
-HTTP/2 enforces TLS. [There's great documentation here. ](https://pkg.go.dev/golang.org/x/net/http2).
+HTTP/2 enforces TLS. There's great documentation  [here. ](https://pkg.go.dev/golang.org/x/net/http2)
 Generate certs using the below command 
 
 ```
